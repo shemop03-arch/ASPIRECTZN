@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mlms-blue",
+    "name": "Mama Love My Swagger Tee — Royal Blue",
+    "category": "mama",
+    "tag": "Signature Tee",
+    "price": 11000,
+    "desc": "Royal blue heavyweight boxy tee with bold white stacked print.",
+    "img": "images/mama-tee-blue.jpg"
+  },
+  {
+    "id": "mlms-black-white",
+    "name": "Mama Love My Swagger Tee — Obsidian / White",
+    "category": "mama",
+    "tag": "Signature Tee",
+    "price": 11000,
+    "desc": "Jet black boxy fit tee with crisp white front typography.",
+    "img": "images/mama-tee-black-white.jpg"
+  },
+  {
+    "id": "mlms-white-red",
+    "name": "Mama Love My Swagger Tee — Pure White / Red",
+    "category": "mama",
+    "tag": "Signature Tee",
+    "price": 11000,
+    "desc": "Crisp white cotton tee featuring vibrant red statement print.",
+    "img": "images/mama-tee-white-red.jpg"
+  },
+  {
+    "id": "mlms-black-red",
+    "name": "Mama Love My Swagger Tee — Noir / Crimson",
+    "category": "mama",
+    "tag": "Signature Tee",
+    "price": 11000,
+    "desc": "Midnight black oversized tee with crimson red graphic.",
+    "img": "images/mama-tee-black-red.jpg"
+  },
+  {
+    "id": "mlms-red-gold",
+    "name": "Mama Love My Swagger Tee — Solar Red / Gold",
+    "category": "mama",
+    "tag": "Signature Tee",
+    "price": 11000,
+    "desc": "Vibrant red tee finished with bold marigold-yellow print.",
+    "img": "images/mama-tee-red-gold.jpg"
+  },
+  {
+    "id": "aspire-dragon-rugby",
+    "name": "ASPIRECTZN Emerald Dragon Rugby Polo",
+    "category": "premium",
+    "tag": "Cut & Sew",
+    "price": 20000,
+    "desc": "Green & white striped collared rugby polo with dragon emblem and crest.",
+    "img": "images/aspire-dragon-rugby-polo.jpg"
+  },
+  {
+    "id": "aspire-equestrian-polo",
+    "name": "ASPIRE Equestrian Crest Polo — Black",
+    "category": "premium",
+    "tag": "Cut & Sew",
+    "price": 20000,
+    "desc": "Black collared polo with equestrian artwork, sleeve numbers, and crest.",
+    "img": "images/aspire-equestrian-polo.jpg"
+  },
+  {
+    "id": "aspire-flag-longsleeve",
+    "name": "Aspire Distressed Flag Long-Sleeve",
+    "category": "premium",
+    "tag": "Long Sleeve",
+    "price": 20000,
+    "desc": "Heavyweight black long-sleeve with distressed flag and script sleeves.",
+    "img": "images/aspire-flag-longsleeve.jpg"
+  },
+  {
+    "id": "aspire-union-jack",
+    "name": "ASPIRECTZN Leopard Union Jack Tee",
+    "category": "premium",
+    "tag": "Graphic Drop",
+    "price": 20000,
+    "desc": "White heavyweight tee featuring custom camo-leopard Union Jack print.",
+    "img": "images/aspire-union-jack-tee.jpg"
+  },
+  {
+    "id": "aspire-superstar-white",
+    "name": "ASPIRECTZN Superstar Graphic Tee — White",
+    "category": "premium",
+    "tag": "Graphic Drop",
+    "price": 20000,
+    "desc": "White graphic tee featuring a star-framed monochrome collage print and Superstar lettering.",
+    "img": "images/superstar-tee-white.jpg"
+  },
+  {
+    "id": "aspire-superstar-black",
+    "name": "ASPIRECTZN Superstar Graphic Tee — Black",
+    "category": "premium",
+    "tag": "Graphic Drop",
+    "price": 20000,
+    "desc": "Black graphic tee featuring a star-framed monochrome collage print and Superstar lettering.",
+    "img": "images/superstar-tee-black.jpg"
+  }
+]
